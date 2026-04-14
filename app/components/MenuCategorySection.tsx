@@ -104,7 +104,7 @@ export default function MenuCategorySection({
     <div id="menu" className="mt-16 grid gap-6 lg:grid-cols-[260px_1fr]">
       <motion.aside initial={false} animate={{ opacity: 1, y: 0 }} className="pt-2 flex flex-col gap-6">
         {enableSearch && (
-          <div className="px-2 lg:px-0">
+          <div className="px-2 w-full lg:px-0">
             <input
               type="text"
               placeholder="Search drinks & food..."

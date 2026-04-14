@@ -3,8 +3,8 @@ import Link from "next/link";
 export default function ContactSection() {
   return (
     <section id="contact" className="px-4 py-16 sm:px-6 lg:px-8">
-      <div className="mx-auto max-w-4/5">
-        <div className="grid gap-12 lg:grid-cols-5">
+      <div className="mx-auto w-full md:max-w-4/5">
+        <div className="grid w-full gap-12 lg:grid-cols-5">
           {/* Map Area */}
           <div className="h-[400px] w-full bg-[#e3ded8] sm:h-[500px] lg:col-span-3">
             <iframe

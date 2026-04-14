@@ -31,7 +31,7 @@ export default function HeroSection() {
           </div>
         </div>
 
-        <MenuCategorySection enablePagination={false} itemsPerPage={18} showViewMore={true} />
+        <MenuCategorySection enablePagination itemsPerPage={18} />
       </div>
     </section>
   );
