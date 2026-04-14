@@ -1,0 +1,94 @@
+{
+  "items": [
+    { "id": "regular-fries", "name": "Regular Fries", "category": "French Fries", "price": "110" },
+    { "id": "peri-peri-fries", "name": "Peri Peri Fries", "category": "French Fries", "price": "130" },
+    { "id": "loaded-chicken-fries", "name": "Loaded Chicken", "category": "French Fries", "price": "170" },
+
+    { "id": "honey-chilly-strips", "name": "Honey Chilly Strips", "category": "Starters", "price": "160" },
+    { "id": "peri-peri-strips", "name": "Peri Peri Strips", "category": "Starters", "price": "160" },
+    { "id": "thai-honey-pops", "name": "Thai Honey Pops", "category": "Starters", "price": "150" },
+    { "id": "dynamate-pops", "name": "Dynamate Pops", "category": "Starters", "price": "150" },
+    { "id": "cocktails-wing", "name": "Cocktails Wing", "category": "Starters", "price": "170" },
+    { "id": "fried-wings", "name": "Fried Wings", "category": "Starters", "price": "160" },
+    { "id": "corian-sauce-wings", "name": "Corian Sauce Wings", "category": "Starters", "price": "170" },
+
+    { "id": "momos-steamed", "name": "Steamed", "category": "Momos", "price": "99/110/120", "note": "Veg / Paneer / Chicken" },
+    { "id": "momos-fried", "name": "Fried", "category": "Momos", "price": "110/120/130", "note": "Veg / Paneer / Chicken" },
+    { "id": "momos-peri-peri", "name": "Peri Peri", "category": "Momos", "price": "120/130/140", "note": "Veg / Paneer / Chicken" },
+    { "id": "momos-shezwan", "name": "Shezwan", "category": "Momos", "price": "130/140/150", "note": "Veg / Paneer / Chicken" },
+    { "id": "momos-honey-chilly", "name": "Honey Chilly", "category": "Momos", "price": "130/140/150", "note": "Veg / Paneer / Chicken" },
+    { "id": "momos-kanthari", "name": "Kanthari", "category": "Momos", "price": "130/140/150", "note": "Veg / Paneer / Chicken" },
+    { "id": "momos-dynamate", "name": "Dynamate", "category": "Momos", "price": "140/150/160", "note": "Veg / Paneer / Chicken" },
+    { "id": "momos-creamy", "name": "Creamy", "category": "Momos", "price": "140/150/170", "note": "Veg / Paneer / Chicken" },
+    { "id": "momos-platter", "name": "Platter", "category": "Momos", "price": "160/180", "note": "As listed on menu card" },
+
+    { "id": "veg-roll", "name": "Veg Roll", "category": "Wrap Roll", "price": "130" },
+    { "id": "egg-roll", "name": "Egg Roll", "category": "Wrap Roll", "price": "140" },
+    { "id": "zinger-roll", "name": "Zinger Roll", "category": "Wrap Roll", "price": "160" },
+    { "id": "peri-peri-roll", "name": "Peri Peri Roll", "category": "Wrap Roll", "price": "160" },
+
+    { "id": "chicken-rumali-roll", "name": "Chicken Roll", "category": "Rumali Roll", "price": "150" },
+    { "id": "crisp-rumali-roll", "name": "Crisp Roll", "category": "Rumali Roll", "price": "170" },
+    { "id": "paneer-rumali-roll", "name": "Paneer Roll", "category": "Rumali Roll", "price": "160" },
+
+    { "id": "chicken-classic-tizza-roll", "name": "Chicken Classic", "category": "Tizza Roll", "price": "160" },
+    { "id": "mexicana-tizza-roll", "name": "Mexicana Roll", "category": "Tizza Roll", "price": "170" },
+    { "id": "cheesy-tizza-roll", "name": "Cheesy Roll", "category": "Tizza Roll", "price": "180" },
+    { "id": "arabic-sp-tizza-roll", "name": "Arabic SP Roll", "category": "Tizza Roll", "price": "199" },
+
+    { "id": "veg-patti-burger", "name": "Veg Patti Burger", "category": "Burger", "price": "130" },
+    { "id": "chicken-tawa-patti-burger", "name": "Chicken Tawa Patti Burger", "category": "Burger", "price": "150" },
+    { "id": "beef-tawa-patti-burger", "name": "Beef Tawa Patti Burger", "category": "Burger", "price": "170" },
+    { "id": "zinger-burger", "name": "Zinger Burger", "category": "Burger", "price": "160" },
+    { "id": "sp-burger", "name": "SP Burger", "category": "Burger", "price": "199" },
+
+    { "id": "veg-sandwich", "name": "Veg Sandwich", "category": "Sandwich", "price": "120" },
+    { "id": "chicken-sandwich", "name": "Chicken Sandwich", "category": "Sandwich", "price": "130" },
+    { "id": "club-sandwich", "name": "Club Sandwich", "category": "Sandwich", "price": "180" },
+
+    { "id": "virgin-mojito", "name": "Virgin", "category": "Mojito & Mocktail", "price": "110" },
+    { "id": "passion-fruits-mojito", "name": "Passion Fruits", "category": "Mojito & Mocktail", "price": "110" },
+    { "id": "green-apple-mojito", "name": "Green Apple", "category": "Mojito & Mocktail", "price": "110" },
+    { "id": "blue-ocean-mojito", "name": "Blue Ocean", "category": "Mojito & Mocktail", "price": "110" },
+    { "id": "watermelon-mojito", "name": "Water Melone", "category": "Mojito & Mocktail", "price": "110" },
+    { "id": "mango-passion-mojito", "name": "Mango Passion", "category": "Mojito & Mocktail", "price": "110" },
+    { "id": "bubble-gum-mojito", "name": "Bubble Gum", "category": "Mojito & Mocktail", "price": "110" },
+
+    { "id": "mango-smoothie", "name": "Mango", "category": "Smoothies", "price": "100" },
+    { "id": "avocado-smoothie", "name": "Avocado", "category": "Smoothies", "price": "110" },
+    { "id": "strawberry-smoothie", "name": "Strawberry", "category": "Smoothies", "price": "100" },
+    { "id": "pappaya-melone-smoothie", "name": "Pappaya Melone", "category": "Smoothies", "price": "110" },
+
+    { "id": "kitkat-shake", "name": "Kitkat", "category": "Signature Shakes", "price": "140" },
+    { "id": "oreo-shake", "name": "Oreo", "category": "Signature Shakes", "price": "110" },
+    { "id": "cashew-shake", "name": "Cashew", "category": "Signature Shakes", "price": "130" },
+    { "id": "badam-shake", "name": "Badam", "category": "Signature Shakes", "price": "130" },
+
+    { "id": "classic-falooda", "name": "Classic Falooda", "category": "Falooda", "price": "120" },
+    { "id": "royal-falooda", "name": "Royal Falooda", "category": "Falooda", "price": "140" },
+    { "id": "magic-falooda", "name": "Magic Falooda", "category": "Falooda", "price": "160" },
+    { "id": "spanish-falooda", "name": "Spanish Falooda", "category": "Falooda", "price": "170" },
+    { "id": "cake-falooda", "name": "Cake Falooda", "category": "Falooda", "price": "190" },
+
+    { "id": "signature-tea", "name": "Signature Tea", "category": "Tea", "price": "15" },
+    { "id": "masala-tea", "name": "Masala Tea", "category": "Tea", "price": "20" },
+    { "id": "black-tea", "name": "Black Tea", "category": "Tea", "price": "12" },
+    { "id": "murabath-tea", "name": "Murabath Tea", "category": "Tea", "price": "20" },
+
+    { "id": "classic-coffee", "name": "Classic Coffee", "category": "Coffee", "price": "40" },
+    { "id": "irish-coffee", "name": "Irish Coffee", "category": "Coffee", "price": "70" },
+    { "id": "huzelnut-coffee", "name": "Huzelnut Coffee", "category": "Coffee", "price": "70" },
+    { "id": "caramel-coffee", "name": "Caramel Coffee", "category": "Coffee", "price": "70" },
+    { "id": "choco-coffee", "name": "Choco Coffee", "category": "Coffee", "price": "50" },
+
+    { "id": "caramel-frappe", "name": "Caramel", "category": "Frappe", "price": "120" },
+    { "id": "hazelnut-frappe", "name": "Hazelnut", "category": "Frappe", "price": "120" },
+    { "id": "irish-frappe", "name": "Irish", "category": "Frappe", "price": "120" },
+
+    { "id": "nutella-pistachio-trifle", "name": "Nutella Pistachio Trifle", "category": "Dessert", "price": "220" },
+    { "id": "vanilla-choco-oreo", "name": "Vanilla / Choco Oreo", "category": "Dessert", "price": "210" },
+    { "id": "lotus-biscoff-trifle", "name": "Lotus Biscoff Trifle", "category": "Dessert", "price": "220" },
+    { "id": "kunfa-pistachio-bowl", "name": "Kunfa Pistachio Bowl", "category": "Dessert", "price": "240" },
+    { "id": "nutella-kunfa-bowl", "name": "Nutella Kunfa Bowl", "category": "Dessert", "price": "240" }
+  ]
+}
